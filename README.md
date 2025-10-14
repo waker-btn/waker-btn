@@ -23,7 +23,7 @@ Before moving into development, I worked as a **Systems Administrator** in post-
 
 Earlier, as an **Edit Assistant**, I worked hands-on with **Avid** and media workflows, ensuring reliable and organised post-production systems.  
 
-These experiences taught me how to stay calm under pressure, think logically, and engineer reliable solutions — skills I now bring into my software development journey.
+These experiences taught me how to stay calm under pressure, think logically, and engineer reliable solutions - skills I now bring into my software development journey.
 
 ---
 
