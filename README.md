@@ -5,14 +5,14 @@ I build web applications using **Node.js, Express, React and PostgreSQL**, and I
 
 ---
 
-## What I’m Working On
+## 🚀 What I’m Working On
 - Building backend **Restful API** using **Node.js**, **Express**, and **PostgreSQL**  
 - Learning best practices in **version control**, **project planning**, and **team collaboration**
 - Brushing up on **React**
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 **Languages & Frameworks:** Node.js, Express, PostgreSQL, React, JavaScript  
 **Tools & Platforms:** VSCode, dbeaver, Docker, Git, PowerShell, Bash, Google Workspace Admin, Windows Server  
 **Concepts:** Troubleshooting, Automation, Systems Administration, Workflow Optimisation  
@@ -35,5 +35,5 @@ If you’re working on something exciting or have opportunities to collaborate, 
 
 ---
 
-### Get in Touch
+### 📩 Get in Touch
 - **LinkedIn:** [linkedin.com/in/matthemstock](https://linkedin.com/in/matthemstock)  
