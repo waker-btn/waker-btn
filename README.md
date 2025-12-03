@@ -9,6 +9,7 @@ I build web applications using **Node.js, Express, React and PostgreSQL**, and I
 - Building backend **Restful API** using **Node.js**, **Express**, and **PostgreSQL**  
 - Learning best practices in **version control**, **project planning**, and **team collaboration**
 - Brushing up on **React**
+- [Advent of Code!](https://adventofcode.com/)
 
 ---
 
