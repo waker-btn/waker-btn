@@ -1,7 +1,7 @@
 # 🌼 Hi, I’m Matt Hemstock (he/him)
 
 I’m a **Back End Web Developer** with a background in **IT systems administration** and **video post-production workflows**.  
-I build web applications using **Node.js, Express, React and PostgreSQL**, and I enjoy solving complex technical problems, improving workflows, and putting together orangised, easy to read code.
+I build web applications using **Typescript, Node.js, Express, React and PostgreSQL**, and I enjoy solving complex technical problems, improving workflows, and putting together orangised, easy to read code.
 
 ---
 
